@@ -1,7 +1,7 @@
 ### Hi there 👋
-資訊管理學系 一年級 顏妤帆 
+資訊管理學系 二年級 顏妤帆 
 
-🌱 I’m currently learning Python Java HTML CSS
+🌱 I’m currently learning 
 
 https://gitlab.com/yenlisa0113
 <!--

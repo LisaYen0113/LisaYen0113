@@ -1,5 +1,5 @@
 ### Hi there 👋
-資訊管理學系 二年級 顏妤帆 
+輔大資管 顏妤帆 
 
 🌱 I’m currently learning 
 
